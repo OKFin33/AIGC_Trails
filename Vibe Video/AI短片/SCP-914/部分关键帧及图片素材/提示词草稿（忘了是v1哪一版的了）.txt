@@ -1,0 +1,37 @@
+Generate an 8-second video clip with a locked-off (static) camera, animating a seamless transition from the [Start Image] to the [End Image].
+
+**PERFORMANCE & DIALOGUE (Core Task):**
+Animate Doctor. Doc's performance, synchronized to the following 8-second monologue, which is characterized by precise pauses and **detailed pantomime**:
+
+**Full Dialogue:** "normally, If you want to open a door lock, you need a key... (PAUSE) ...the perfectly fitting mechanical structure rotates in the prescribed way... (PAUSE) ...and... (PAUSE) ka da!")*
+
+**ACTION & TIMING (The "In-Between"):**
+The physical performance must be precisely timed to bridge the two input poses, emphasizing that **all objects are invisible **. The timing is critical:
+
+1.  **[0.0s - 0.5s]: (The Transition - MUST BE SHORT)**
+    * He **abruptly and quickly snaps out** of the [Start Image] 'rapture' pose. His eyes open, his expression instantly shifting to "professorial" (all business).
+2.  **[0.5s - 3.0s]: (The Preparation - MUST BE SHORT)**
+    * As he says, "normally, If you want to open a door lock, you need a key..."
+    * He performs the **pantomime**: He mimes "picking up" an **invisible lock** with his left hand and holding it in mid-air. He then mimes "picking up" an **invisible key** with his right hand.
+3.  **[3.0s - 4.0s]: (The First Pause - Action Only)**
+    * **A distinct pause in dialogue (no speech).**
+    * During this silence, he performs the **pantomime action** of **inserting the invisible key** (right hand) into the **invisible lock** (left hand).
+4.  **[4.0s - 6.5s]: (The Main Action)**
+    * As he says, "..the perfectly fitting mechanical structure rotates in the prescribed way..."
+    * He performs the **pantomime turning motion**: His right hand (key) performs a slow, deliberate turning motion within the left hand (lock).
+5.  **[6.5s - 7.5s]: (The Second Pause - Suspense)**
+    * **Another distinct pause in dialogue.** He says only, "...and..."
+    * His hands **freeze** at the apex of the turn, building suspense. His eyes might widen slightly, looking at the "lock".
+6.  **[7.5s - 8.0s]: (The Climax)**
+    * As he exclaims, "...ka da!"
+    * He completes the final **"click" motion** with a sharp, satisfying twist, landing **perfectly** on the [End Image] pose (both hands in mid-air, having just completed the turn).
+
+**FACIAL ANIMATION & LIP-SYNC:**
+His facial expression must be dynamic: Rapture (`Start Image`) -> Instant Snap to "Business" -> "Focused" (during mime) -> "Suspenseful" (during "and...") -> "Matter-of-fact/Bored" (`End Image`).
+Ensure clear, theatrical lip-sync for the full 8-second, precisely-timed dialogue.
+
+**DYNAMIC TEXTURE & LIGHTING (Activating the Still Image):**
+Animate the static analog video texture:
+* Subtle, continuous vertical jitter and periodic screen flicker.
+* Occasional, faint horizontal tracking lines.
+* The overhead fluorescent light's flicker should cast subtle, dynamic reflections on the **Lockpick cube still sitting on the desk**.
